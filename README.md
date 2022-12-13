@@ -1,6 +1,5 @@
  #### Всем привет! :purple_heart:
  #### Меня зовут Дима и я начинающий web-разработчик   :snake:
- ___
  ### Мой стек технологий:
 
 <img src="https://img.shields.io/badge/python-gray?style=for-the-badge&logo=Python&logoColor=blue"/>  <img src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=red"/> <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=&logoColor=white"/>
