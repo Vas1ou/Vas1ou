@@ -10,3 +10,17 @@
 
 ____
 ### Мои социальные сети:
+
+<div>
+<a href="https://t.me/Vaslou">
+ <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+<a href="https://instagram.com/vaslou?igshid=NTdlMDg3MTY=">
+ <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=red" alt="Instagram Badge"/>
+</a>
+ </div>
+<a href="https://www.codewars.com/users/Vaslou">
+ <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=black" alt="Codewars Badge"/>
+</a>
+
+____
