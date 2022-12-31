@@ -1,3 +1,4 @@
+
  #### Всем привет! 
  #### Меня зовут Дима и я начинающий web-разработчик   :snake:
  ### Мой стек технологий:
@@ -19,8 +20,10 @@ ____
  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=red" alt="Instagram Badge"/>
 </a>
  </div>
+ <br>
 <a href="https://www.codewars.com/users/Vaslou">
- <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=black" alt="Codewars Badge"/>
+ <img src="https://www.codewars.com/users/Vaslou/badges/small" alt="Codewars Badge"/>
 </a>
+
 
 ____
