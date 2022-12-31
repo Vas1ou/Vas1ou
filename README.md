@@ -11,19 +11,19 @@
 
 ____
 ### Мои социальные сети:
-
+<div>
+<a href="https://www.codewars.com/users/Vaslou">
+ <img src="https://www.codewars.com/users/Vaslou/badges/small" alt="Codewars Badge"/>
+</a>
+</div>
+<br>
 <div>
 <a href="https://t.me/Vaslou">
- <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+ <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
 </a>
 <a href="https://instagram.com/vaslou?igshid=NTdlMDg3MTY=">
  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=red" alt="Instagram Badge"/>
 </a>
  </div>
- <br>
-<a href="https://www.codewars.com/users/Vaslou">
- <img src="https://www.codewars.com/users/Vaslou/badges/small" alt="Codewars Badge"/>
-</a>
-
 
 ____
